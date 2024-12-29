@@ -7,8 +7,8 @@
 - ☆ My technical proficiency extends to programming languages like Python and Fortran, along with adept usage of specialized software such as ABAQUS (with a focus on secondary development) and COMSOL for simulation and analysis purposes. Practical experience includes conducting various load tests and calculations within the domain of urban bridges and cable system bridges. In addition, I actively participated in the assembly and calibration of extensive intelligent production workshops, and I possess a solid command of modeling tools like SolidWorks and Creo.
 
 #### Websites
-- <strong> Researchgate__ </strong>[[link]](https://www.researchgate.net/profile/Yongming-Xiong-xiongyongming-2)
-- <strong> Orcid_________ </strong>[[link]](https://orcid.org/my-orcid?orcid=0000-0002-0216-7440)
+- <strong> Researchgate   </strong>[[link]](https://www.researchgate.net/profile/Yongming-Xiong-xiongyongming-2)
+- <strong> Orcid          </strong>[[link]](https://orcid.org/my-orcid?orcid=0000-0002-0216-7440)
 - <strong> Google Scholar </strong>[[link]](https://scholar.google.com/citations?hl=en&user=w7YrBf4AAAAJ&view_op=list_works&sortby=pubdate)
 
 #### Email
