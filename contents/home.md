@@ -1,6 +1,6 @@
 
 
-[![Yongming Xiong](https://img.shields.io/badge/YongmingXiong-github-blue?logo=github)](https://github.com/YM-Xiong)
+[![Yongming Xiong](https://img.shields.io/badge/YM_Xiong-github-blue?logo=github)](https://github.com/YM-Xiong)
 
 ☆ During my master's degree studies, I engaged in research concerning the distribution of residual stress within steel structures under the influence of thermal processes. My focus encompassed exploring the intricate relationship between residual stress and fatigue mechanisms. During this period, I also dedicated significant effort to the related study of fatigue crack repair using CFPR and epoxy adhesive.
 ☆ Throughout my doctoral studies, I embarked on a systematic examination of aligned steel fiber UHPC materials and their associated structural fabrications. The proposed research ideals gained approval from my supervisor and led to independent formulation of research proposals, successful fund acquisition, and autonomous execution of comprehensive research investigations.
